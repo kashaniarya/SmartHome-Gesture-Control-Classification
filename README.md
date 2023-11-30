@@ -1,4 +1,4 @@
-# SmartHome-Gesture-Control-Application
+# SmartHome-Gesture-Control-Classification (Part 2)
 Part 1: Develop a mobile application to control SmartHome devices through gestures, offering convenience and accessibility. Part 2: Develop a Python application for classifying SmartHome gestures. Tools: TensorFlow, Python, OpenCV, Keras.
 
 Part 1: SmartHome Gesture Control Application
